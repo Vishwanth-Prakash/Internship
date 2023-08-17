@@ -1,0 +1,14 @@
+{
+  "Form": [
+    {
+      "Division": 1,
+      "Subject": "Maths",
+      "Teacher": "Ramesh"
+    },
+    {
+      "Division": 2,
+      "Subject": "Physics",
+      "Teacher": "Suresh"
+    }
+  ]
+}
