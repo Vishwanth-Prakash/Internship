@@ -16,11 +16,10 @@
       "Teacher": "Mahesh"
     }
   ],
-
   "Login":[
-  {
+    {
       "username": "Vishwa",
-       "password": "Vishwa@123"
-   }
+      "password": "Vishwa@123"
+    }
   ]
 }
