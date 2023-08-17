@@ -9,6 +9,11 @@
       "Division": 2,
       "Subject": "Physics",
       "Teacher": "Suresh"
+    },
+    {
+      "Division": 3,
+      "Subject": "Chemistry",
+      "Teacher": "Mahesh"
     }
   ]
 }
