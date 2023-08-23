@@ -148,6 +148,18 @@
       "location": "Classroom 202"
     },
     {
+      "title": "Chemistry",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "location": "Lab 303"
+    },
+    {
+      "title": "Python",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "location": "Lab 102"
+    },
+    {
       "title": "Math",
       "startTime": "13:00",
       "endTime": "14:00",
@@ -245,6 +257,12 @@
       "startTime": "11:00",
       "endTime": "12:00",
       "location": "Lab 202"
+    },
+    {
+      "title": "Physics",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "location": "Lab 102"
     },
     {
       "title": "Music",
