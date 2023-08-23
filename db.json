@@ -24,10 +24,7 @@
   ],
   "Timetable": [
     {
-      "Day": "Monday",
-      "Periods": [
-        {
-  "MON": [
+      "MON": [
     {
       "title": "Math",
       "startTime": "09:00",
@@ -268,8 +265,6 @@
       "location": "Library"
    }
   ]
-}
-]
 }
 ]
 }
