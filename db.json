@@ -160,10 +160,9 @@
       "location": "Lab 102"
     },
     {
-      "title": "Math",
+      "title": "Lunch Break",
       "startTime": "13:00",
-      "endTime": "14:00",
-      "location": "Classroom 103"
+      "endTime": "14:00"
     },
     {
       "title": "Chemistry",
@@ -178,9 +177,15 @@
       "location": "Music Room"
     },
     {
-      "title": "Study Hall",
+      "title": "Java",
       "startTime": "16:00",
       "endTime": "17:00",
+      "location": "Lab 104"
+    },
+    {
+      "title": "Study Hall",
+      "startTime": "17:00",
+      "endTime": "18:00",
       "location": "Library"
     }
   ],
@@ -265,10 +270,9 @@
       "location": "Lab 102"
     },
     {
-      "title": "Music",
+      "title": "Lunch Break",
       "startTime": "13:00",
-      "endTime": "14:00",
-      "location": "Music Room"
+      "endTime": "14:00"
     },
     {
       "title": "Art",
@@ -277,11 +281,23 @@
       "location": "Art Room"
     },
     {
-      "title": "Study Hall",
+      "title": "Python",
       "startTime": "15:00",
       "endTime": "16:00",
+      "location": "Lab 606"
+   },
+    {
+      "title": "C++",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "location": "Lab 505"
+    },
+    {
+      "title": "Study Hall",
+      "startTime": "17:00",
+      "endTime": "18:00",
       "location": "Library"
-   }
+    }
   ]
 }
 ]
