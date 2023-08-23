@@ -300,5 +300,20 @@
     }
   ]
 }
-]
+],
+  "Notifications":[
+    {
+  "subject": "Attendance Updated!",
+  "body": "Kindly check the updated attendance...",
+  "date": "2023-08-23",
+  "time": "02:45"
+},
+    {
+  "subject": "Timetable Updated!",
+  "body": "Kindly check the updated Timetable",
+  "date": "2023-08-23",
+  "time": "15:37"
+}
+
+  ]
 }
