@@ -320,7 +320,6 @@
   ],
   "Public Holidays":[
     {
-    "2023": {
       "2023-01-01": "New Year's Day",
       "2023-01-26": "Republic Day",
       "2023-03-29": "Holi",
@@ -333,6 +332,5 @@
       "2023-11-04": "Diwali",
       "2023-12-25": "Christmas Day"
     }
-  }
   ]
 }
