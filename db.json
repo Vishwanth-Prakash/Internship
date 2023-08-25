@@ -323,31 +323,31 @@
           "subject": "Math",
           "totalMarks": 100,
           "securedMarks": 85,
-          "classAverage": 75
+          "classAverage": 69
         },
         {
           "subject": "Science",
           "totalMarks": 100,
           "securedMarks": 92,
-          "classAverage": 75
+          "classAverage": 74
         },
         {
           "subject": "History",
           "totalMarks": 100,
           "securedMarks": 78,
-          "classAverage": 75
+          "classAverage": 81
         },
         {
           "subject": "English",
           "totalMarks": 100,
           "securedMarks": 90,
-          "classAverage": 75
+          "classAverage": 59
         },
         {
           "subject": "Geography",
           "totalMarks": 100,
           "securedMarks": 88,
-          "classAverage": 75
+          "classAverage": 92
         }
       ],
       "test2": [
@@ -355,31 +355,31 @@
           "subject": "Physics",
           "totalMarks": 100,
           "securedMarks": 95,
-          "classAverage": 80
+          "classAverage": 67
         },
         {
           "subject": "Chemistry",
           "totalMarks": 100,
           "securedMarks": 89,
-          "classAverage": 80
+          "classAverage": 81
         },
         {
           "subject": "Biology",
           "totalMarks": 100,
           "securedMarks": 96,
-          "classAverage": 80
+          "classAverage": 86
         },
         {
           "subject": "Computer Science",
           "totalMarks": 100,
           "securedMarks": 92,
-          "classAverage": 80
+          "classAverage": 51
         },
         {
           "subject": "Physical Education",
           "totalMarks": 100,
           "securedMarks": 70,
-          "classAverage": 80
+          "classAverage": 96
         }
       ]
     }
