@@ -1,0 +1,70 @@
+ {
+   "Reportcard":[
+  {
+  "test1": [
+    {
+      "subject": "Math",
+      "totalMarks": 100,
+      "securedMarks": 85,
+      "classAverage": 75
+    },
+    {
+      "subject": "Science",
+      "totalMarks": 100,
+      "securedMarks": 92,
+      "classAverage": 75
+    },
+    {
+      "subject": "History",
+      "totalMarks": 100,
+      "securedMarks": 78,
+      "classAverage": 75
+    },
+    {
+      "subject": "English",
+      "totalMarks": 100,
+      "securedMarks": 90,
+      "classAverage": 75
+    },
+    {
+      "subject": "Geography",
+      "totalMarks": 100,
+      "securedMarks": 88,
+      "classAverage": 75
+    }
+  ],
+  "test2": [
+    {
+      "subject": "Physics",
+      "totalMarks": 100,
+      "securedMarks": 95,
+      "classAverage": 80
+    },
+    {
+      "subject": "Chemistry",
+      "totalMarks": 100,
+      "securedMarks": 89,
+      "classAverage": 80
+    },
+    {
+      "subject": "Biology",
+      "totalMarks": 100,
+      "securedMarks": 96,
+      "classAverage": 80
+    },
+    {
+      "subject": "Computer Science",
+      "totalMarks": 100,
+      "securedMarks": 92,
+      "classAverage": 80
+    },
+    {
+      "subject": "Physical Education",
+      "totalMarks": 100,
+      "securedMarks": 70,
+      "classAverage": 80
+    }
+  ]
+}
+  ]
+ }
